@@ -2,6 +2,8 @@
 
 <project name="sass" default="build" basedir=".">
 
+    <property file="build.properties" />
+
     <path id="project.classpath">
         <pathelement path="${play.path}/framework/classes"/>
         <fileset dir="${play.path}/framework/lib">

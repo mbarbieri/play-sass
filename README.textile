@@ -2,6 +2,8 @@ h2. SASS module for play framework
 
 Check "http://www.playframework.org/modules/sass":http://www.playframework.org/modules/sass
 
+Be sure to copy <code>build.properties.default</code> to <code>build.properties</code> and edit it to set your local path to the play framework.
+
 The play sass module uses all these cool libraries:
 
 * SASS - "http://sass-lang.com/":http://sass-lang.com/
