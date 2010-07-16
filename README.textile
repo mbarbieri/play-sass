@@ -3,12 +3,14 @@ h2. SASS module for play framework
 Check "http://www.playframework.org/modules/sass":http://www.playframework.org/modules/sass
 
 h3. How to Use
+
 # Copy <code>build.properties.default</code> to <code>build.properties</code>
 # In <code>build.properties</code>, set <code>play.path</code> to the path of your local Play! repo
 # <code>ant</code>
 # Copy or soft-link this project folder into your <code>{play.path}/modules</code> dir
 
 h3. More Info
+
 The play sass module uses all these cool libraries:
 
 * SASS - "http://sass-lang.com/":http://sass-lang.com/
