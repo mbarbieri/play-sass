@@ -9,3 +9,5 @@ dist
 .sass-cache
 .yardopts
 build.properties
+.classpath
+.project

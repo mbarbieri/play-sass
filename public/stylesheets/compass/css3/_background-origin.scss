@@ -1,6 +1,6 @@
 // Override `$default-background-origin` to change the default.
 
-@import "shared";
+@import "compass/css3/shared";
 
 $default-background-origin: content-box !default;
 
